@@ -1,0 +1,9 @@
+este codigo no cumple con los requerimientos falta modificar algunas cosas 
+para que cumpla con el contrato 
+ejecutar el codigo con los siguientes parametros 
+ polinomio  1X2+1
+ rango inicio=-10
+  rango final =10
+  intervalos= 1
+hay que ajustar la grafica para que se adapte a las especificaciones del contrato 
+
